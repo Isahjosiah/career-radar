@@ -1,0 +1,177 @@
+{
+ "updated": "2026-11-20T00:00:00Z",
+ "items": [
+  {
+   "t": "Postdoc",
+   "title": "H3D Postdoctoral Fellowship in Medicinal Chemistry",
+   "org": "University of Cape Town, H3D Centre",
+   "d": "2026-11-30",
+   "fit": "Medium",
+   "why": "Africa’s leading drug discovery centre, with CADD and AI/ML mentorship built in. The post is chemistry-led (design and synthesis for malaria, TB, AMR), so pitch your modelling as the design engine.",
+   "note": "Roughly R367,500 to R410,000 a year, tax-free. Another listing shows older dates, so confirm the closing date with H3D.",
+   "u": "https://www.pharmatutor.org/content/november-2026/postdoctoral-fellowships-in-medicinal-chemistry-at-university-of-cape-town"
+  },
+  {
+   "t": "Postdoc",
+   "title": "EMBL EIPOD-LinC Postdoctoral Fellowship",
+   "org": "EMBL, Europe",
+   "d": "2027-02-01",
+   "opens": "2026-11-25",
+   "fit": "Medium",
+   "why": "Interdisciplinary postdocs at EMBL sites. Opens 25 Nov 2026, so start drafting a computational proposal with a host group now.",
+   "note": "Date comes from a listing site. Confirm at embl.org.",
+   "u": "https://scholarshipsforafricans.com/categories/research-fellowships"
+  },
+  {
+   "t": "Postdoc",
+   "title": "EMBO Postdoctoral Fellowship",
+   "org": "EMBO, Europe and worldwide",
+   "d": "2027-01-22",
+   "fit": "High",
+   "why": "Funds life-science postdocs abroad. Your PhD must be under two years old and the host must be outside Nigeria. Your PhD finished in 2026, so you fit the window.",
+   "note": "Hard deadline 22 Jan 2027 at 14:00 CET. You need a host lab that agrees to take you.",
+   "u": "https://www.embo.org/funding/fellowships-grants-and-career-support/postdoctoral-fellowships/eligibility/"
+  },
+  {
+   "t": "Postdoc",
+   "title": "TWAS-FAPESP Postdoctoral Fellowship",
+   "org": "TWAS and FAPESP, Brazil",
+   "d": "2027-04-01",
+   "fit": "High",
+   "why": "For recent PhDs from developing countries, in all natural sciences. A route into a Brazilian drug discovery group.",
+   "note": "Date read from the TWAS page. Check which TWAS call is currently open.",
+   "u": "https://twas.org/opportunities/fellowships/postdoctoral"
+  },
+  {
+   "t": "Postdoc",
+   "title": "ICGEB Arturo Falaschi Postdoctoral Fellowships",
+   "org": "ICGEB, Trieste, New Delhi, Cape Town",
+   "d": "2027-03-31",
+   "opens": "2027-01-01",
+   "fit": "Medium",
+   "why": "Biotechnology and life-science postdocs, including a Cape Town site. Opens January 2027.",
+   "note": "Open to nationals of ICGEB member states only. Check that Nigeria qualifies.",
+   "u": "https://www.icgeb.org/fellowship/"
+  },
+  {
+   "t": "Postdoc",
+   "title": "MIDAS African Faculty Fellowship (Phase 2)",
+   "org": "University of Michigan",
+   "d": "2026-11-23",
+   "fit": "Medium",
+   "why": "A year in Ann Arbor for African faculty, with a stipend of $35,000. Michigan runs a Center for Data-Driven Drug Development.",
+   "note": "Phase 1 closed 5 Oct 2026. Phase 2 is only worth pursuing if you submitted Phase 1. Otherwise watch for the 2028 cohort.",
+   "u": "https://midas.umich.edu/training/postdoctoral-programs/african-faculty-fellowship/apply/"
+  },
+  {
+   "t": "Postdoc",
+   "title": "Wits postdoctoral fellowship openings",
+   "org": "University of the Witwatersrand",
+   "d": null,
+   "fit": "Stretch",
+   "why": "Several project-based postdocs, including ML on mass spectrometry imaging data. Some stay open until filled.",
+   "note": "Most listed closing dates have passed. Email the contact person to ask about open projects.",
+   "u": "https://www.wits.ac.za/research/postdoctoral-fellows/postdoctoral-fellowship-opportunities/"
+  },
+  {
+   "t": "Job",
+   "title": "Computational Chemistry, Structural Biology and Drug Discovery Scientist",
+   "org": "OpenTrain AI, contract",
+   "d": null,
+   "fit": "High",
+   "why": "Remote, $45 to $90 an hour, and Nigeria is on the eligible list. This is expert review work for AI training, so treat it as paid side income that does not build your publication record.",
+   "note": "Posted 9 Nov 2026. Includes a coding challenge.",
+   "u": "https://www.opentrain.ai/jobs/computational-chemistry-structural-biology-and-drug-discovery-scientist--cmw967as900gc08l2jl7j3yqp/?apply=1"
+  },
+  {
+   "t": "Job",
+   "title": "Bioinformatics and Computational Chemistry reviewer for virtual training",
+   "org": "Upwork client based in Nigeria",
+   "d": null,
+   "fit": "High",
+   "why": "A short docking and virtual screening training review using AutoDock Vina and PyMOL, which you already use. Pays $10 to $40 an hour for under a month.",
+   "note": "Posted about two weeks before this snapshot. It may already be filled.",
+   "u": "https://www.upwork.com/freelance-jobs/apply/Bioinformatics-Computational-Chemistry-Instructor-for-Virtual-Training_~022080047339029754549/"
+  },
+  {
+   "t": "Job",
+   "title": "Scientist, Computational Chemistry (ARPA-H project)",
+   "org": "Deep Origin, UK remote",
+   "d": null,
+   "fit": "Stretch",
+   "why": "Docking, MD, FEP and ML on structure-based projects. Your toolkit matches, but it asks for 2+ years of postdoc or industry experience.",
+   "note": "Posted 13 May 2026, so it may be closed. Check the page.",
+   "u": "https://apply.workable.com/deeporigin/jobs/view/1AC4116925.md"
+  },
+  {
+   "t": "Job",
+   "title": "Scientist, CADD and Cheminformatics",
+   "org": "X-Chem, Canada",
+   "d": null,
+   "fit": "Stretch",
+   "why": "A near-perfect skills match with RDKit, ML and Schrödinger-type tools.",
+   "note": "Based in Montreal or remote from Ontario only, so you would need to relocate or be work-authorised in Canada.",
+   "u": "https://remotive.com/remote/jobs/research/scientist-computer-aided-drug-design-cadd-cheminformatics-5151833"
+  },
+  {
+   "t": "Job",
+   "title": "More remote chemistry expert roles open to Nigeria",
+   "org": "Micro1, Turing, AfterQuery and others",
+   "d": null,
+   "fit": "Medium",
+   "why": "A running list of about 36 remote contract roles for Nigerian applicants. Mostly AI-training work.",
+   "note": "Updated daily on the source site.",
+   "u": "https://remowork.life/remote-jobs-in/nigeria/ai-expert-chemistry"
+  },
+  {
+   "t": "Grant",
+   "title": "TETFund National Research Fund 2026 (concept notes)",
+   "org": "TETFund, Nigeria",
+   "d": "2026-10-15",
+   "fit": "High",
+   "why": "₦10 billion pool for public-institution lecturers. Closed on 15 Oct 2026 with no extension. Prepare a drug discovery concept note now for the next cycle.",
+   "note": "Closed. Register on nrf.tetfund.gov.ng early next time.",
+   "u": "https://nrf.tetfund.gov.ng"
+  },
+  {
+   "t": "Grant",
+   "title": "AACR Beginning Investigator Grant for Catalytic Research (BIG Cat)",
+   "org": "AACR, cancer research in Africa",
+   "d": "2026-05-12",
+   "fit": "High",
+   "why": "$60,000 over two years for early-career African cancer investigators. Your DLBCL work is a direct fit, so watch for the next call.",
+   "note": "Letter of intent closed 12 May 2026.",
+   "u": "https://www.aacr.org/grants/beginning-investigator-grant-for-catalytic-research-big-cat/"
+  },
+  {
+   "t": "Grant",
+   "title": "MMV Malaria Drug Discovery Research Call (9th)",
+   "org": "Medicines for Malaria Venture",
+   "d": "2026-08-29",
+   "fit": "High",
+   "why": "Funds African scientists for cheminformatics, virtual screening and modelling. Your method set fits well, so prepare a malaria target for the next call.",
+   "note": "Closed 29 Aug 2026.",
+   "u": "https://www2.fundsforngos.org/?p=480876"
+  },
+  {
+   "t": "Training",
+   "title": "Ersilia, AITHYRA and H3D AI Incubator",
+   "org": "Ersilia, AITHYRA, H3D Foundation",
+   "d": "2026-10-19",
+   "fit": "Medium",
+   "why": "A six-month programme (Feb to Jul 2027) that helps African scientists apply AI to their own therapeutic discovery projects. It is designed as an annual round.",
+   "note": "Closed 19 Oct 2026. Watch for the next round.",
+   "u": "https://incubator.ersilia.io/"
+  },
+  {
+   "t": "Training",
+   "title": "AREF Essential Grant Writing Programme",
+   "org": "Africa Research Excellence Fund",
+   "d": "2026-05-22",
+   "fit": "Medium",
+   "why": "Grant-writing training for early-career African health researchers. A good first step before a Wellcome or EDCTP application.",
+   "note": "The 2026 call has closed. Watch for the 2027 call.",
+   "u": "https://africaresearchexcellencefund.org.uk/"
+  }
+ ]
+}
